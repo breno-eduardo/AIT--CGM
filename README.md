@@ -1,4 +1,4 @@
-# AIT--CGM
+# AIT_CGM
 Ferramentas: Python, Selenium, Tkinter, Pandas, OpenPyXL, Excel
 Descrição:
 Desenvolvimento de uma aplicação desktop que realiza web scraping automatizado no site do Tribunal de Contas do Município do Rio de Janeiro (TCM-RJ), coletando dados de processos e decisões.
